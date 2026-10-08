@@ -31,13 +31,14 @@ Open to opportunities across the UAE.
 
 ---
 
-## 📂 What's In The Cebersecurity-Portfolio
+## 📂 What's In The Cybersecurity-Portfolio
 | Folder | Contents |
 |--------|----------|
 | cheatsheets/ | Command references — Linux, Windows, nmap, tcpdump |
 | ctf-writeups/ | CTF challenge solutions and walkthroughs |
 | scripts/ | Python and Bash scripts |
 | thm-progress/ | TryHackMe room progress and brief notes |
+| college-notes | College projects and notes |
 
 ---
 
