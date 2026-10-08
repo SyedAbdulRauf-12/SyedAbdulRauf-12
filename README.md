@@ -38,7 +38,7 @@ Open to opportunities across the UAE.
 | ctf-writeups/ | CTF challenge solutions and walkthroughs |
 | scripts/ | Python and Bash scripts |
 | thm-progress/ | TryHackMe room progress and brief notes |
-| college-notes | College projects and notes |
+| college-notes/ | College projects and notes |
 
 ---
 
