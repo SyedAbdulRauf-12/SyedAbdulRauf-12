@@ -31,7 +31,7 @@ Open to opportunities across the UAE.
 
 ---
 
-## 📂 What's In This Repo
+## 📂 What's In The Cebersecurity-Portfolio
 | Folder | Contents |
 |--------|----------|
 | cheatsheets/ | Command references — Linux, Windows, nmap, tcpdump |
